@@ -1,0 +1,99 @@
+{
+  "control" : {
+    "GPIO_00" : false,
+    "GPIO_01" : false,
+    "GPIO_02" : false,
+    "GPIO_03" : false,
+    "GPIO_04" : false,
+    "GPIO_05" : false,
+    "GPIO_06" : false,
+    "GPIO_07" : false,
+    "GPIO_08" : false,
+    "GPIO_09" : false,
+    "GPIO_10" : false,
+    "GPIO_11" : false,
+    "GPIO_12" : false,
+    "GPIO_13" : false,
+    "GPIO_14" : false,
+    "GPIO_15" : false,
+    "GPIO_16" : false
+  },
+  "device" : {
+    "D00" : {
+      "accuracy" : 1,
+      "channel" : 0,
+      "id" : "D00",
+      "isIncrememt" : true,
+      "name" : "可變電阻",
+      "value" : 67
+    },
+    "D01" : {
+      "accuracy" : 3,
+      "channel" : 1,
+      "id" : "D01",
+      "isIncrememt" : false,
+      "name" : "光敏電阻",
+      "value" : 53
+    },
+    "D02" : {
+      "accuracy" : 1,
+      "channel" : 2,
+      "id" : "D02",
+      "isIncrememt" : true,
+      "name" : "搖桿X",
+      "value" : 50
+    },
+    "D03" : {
+      "accuracy" : 1,
+      "channel" : 3,
+      "id" : "D03",
+      "isIncrememt" : true,
+      "name" : "搖桿Y",
+      "value" : 50
+    },
+    "D04" : {
+      "accuracy" : 1,
+      "channel" : 4,
+      "id" : "D04",
+      "isIncrememt" : true,
+      "name" : "搖桿按鈕",
+      "value" : 0
+    },
+    "D05" : {
+      "accuracy" : 1,
+      "channel" : 5,
+      "id" : "D05",
+      "isIncrememt" : true,
+      "name" : "瓦斯",
+      "value" : 4
+    },
+    "D06" : {
+      "accuracy" : 1,
+      "channel" : 0,
+      "id" : "D06",
+      "isIncrememt" : true,
+      "name" : "Temperature",
+      "value" : 30
+    },
+    "D07" : {
+      "accuracy" : 1,
+      "channel" : 0,
+      "id" : "D07",
+      "isIncrememt" : true,
+      "name" : "Humidity",
+      "value" : 53
+    }
+  },
+  "exit" : false,
+  "listener" : {
+    "GPIO_04" : "true,false",
+    "GPIO_06" : "true,false"
+  },
+  "monitor" : {
+    "m001" : 30,
+    "m002" : 53
+  },
+  "servo" : {
+    "p1-18" : false
+  }
+}
