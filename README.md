@@ -12,6 +12,6 @@ PiCommander 2.0 - Firebase
 * 從 Zero 開始（8）- 安裝 Android 模擬裝置 Genymotion
 * 從 Zero 開始（9）- 安裝與使用 PiCommander Android App
 * 從 Zero 開始（10）- 安裝與使用 PiCommander WEB App
-* 從 Zero 開始（11）- 為 Raspberry Pi 連接類比數位轉換器
-* 從 Zero 開始（12）- 使用 PiCommander 讀取類比資訊
+* 從 Zero 開始（11）- 使用 PiCommander 即時監測溫濕度資訊
+* 從 Zero 開始（12）- 使用 PiCommander 即時監測類比資訊
 
