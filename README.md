@@ -14,4 +14,5 @@ PiCommander 2.0 - Firebase
 * 從 Zero 開始（10）- 安裝與使用 PiCommander WEB App
 * 從 Zero 開始（11）- 使用 PiCommander 即時監測溫濕度資訊
 * 從 Zero 開始（12）- 使用 PiCommander 即時監測類比資訊
+* 從 Zero 開始（13）- 監測更多類比資訊
 
