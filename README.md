@@ -3,11 +3,7 @@
 PiCommander 2.0 - Firebase
 
 * [從 Zero 開始（1）- PiCommander 現身](http://www.codedata.com.tw/java/swz-01/)
-<<<<<<< HEAD
 * [從 Zero 開始（2）- 認識 Raspberry Pi 與基本的零件](http://www.codedata.com.tw/java/swz-02/)
-=======
-* 從 Zero 開始（2）- 認識 Raspberry Pi 與基本的零件
->>>>>>> origin/master
 * 從 Zero 開始（3）- Raspberry Pi 作業系統安裝與設定
 * 從 Zero 開始（4）- 設定Raspberry Pi的網路與遠端連線
 * 從 Zero 開始（5）- Firebase 雲端即時資料庫服務
