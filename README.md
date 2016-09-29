@@ -8,7 +8,7 @@ PiCommander 2.0 - Firebase
 * [從 Zero 開始（4）- 設定Raspberry Pi的網路與遠端連線](http://www.codedata.com.tw/java/swz-04/)
 * [從 Zero 開始（5）- Firebase 雲端即時資料庫服務](http://www.codedata.com.tw/java/swz-05/)
 * [從 Zero 開始（6）- 認識 Raspberry Pi GPIO 與基本零件](http://www.codedata.com.tw/java/swz-06/)
-* 從 Zero 開始（7）- 在 Raspberry Pi 安裝與測試 PiCommander
+* [從 Zero 開始（7）- 在 Raspberry Pi 安裝與測試 PiCommander](http://www.codedata.com.tw/java/swz-07/)
 * 從 Zero 開始（8）- 安裝 Android 模擬裝置 Genymotion
 * 從 Zero 開始（9）- 安裝與使用 PiCommander Android App
 * 從 Zero 開始（10）- 安裝與使用 PiCommander WEB App
