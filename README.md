@@ -11,7 +11,7 @@ PiCommander 2.0 - Firebase
 * [從 Zero 開始（7）- 在 Raspberry Pi 安裝與測試 PiCommander](http://www.codedata.com.tw/java/swz-07/)
 * [從 Zero 開始（8）- 安裝 Android 模擬裝置 Genymotion](http://www.codedata.com.tw/java/swz-08/)
 * [從 Zero 開始（9）- 安裝與使用 PiCommander Android App](http://www.codedata.com.tw/java/swz-09/)
-* 從 Zero 開始（10）- 安裝與使用 PiCommander WEB App
+* [從 Zero 開始（10）- 安裝與使用 PiCommander WEB App](http://www.codedata.com.tw/java/swz-10/)
 * 從 Zero 開始（11）- 使用 PiCommander 即時監測溫濕度資訊
 * 從 Zero 開始（12）- 使用 PiCommander 即時監測類比資訊
 * 從 Zero 開始（13）- 監測更多類比資訊
